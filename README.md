@@ -84,3 +84,6 @@ ___
 
 * 이미지
 ![이미지 설명](https://cdn.pixabay.com/photo/2023/04/11/13/27/bird-7917250_1280.jpg)
+
+*이미지 링크
+[![이미지 설명](https://cdn.pixabay.com/photo/2023/04/11/13/27/bird-7917250_1280.jpg)](링크)
